@@ -1,0 +1,234 @@
+INFO:root:Starting Game
+INFO:root:2020-12-03 21:58:21
+INFO:root:Starting Game
+INFO:root:2020-12-03 22:00:15
+INFO:root:Starting Game
+INFO:root:2020-12-03 22:03:57
+INFO:root:Starting Game
+INFO:root:2020-12-03 22:05:58
+INFO:root:Starting Game
+INFO:root:2020-12-03 22:07:50
+INFO:root:2020-12-03 22:07:50
+INFO:root:Unable to find match.
+
+INFO:root:Starting Game
+INFO:root:2020-12-0919:59:12
+INFO:root:Connected at 09.Dec 2020 14:59:13
+INFO:root:{'ranking': 38, 'losses': 24, 'wins': 14, 'name': 'Trump'}
+INFO:root:Connected at 09.Dec 2020 14:59:13
+INFO:root:{'ranking': 36, 'losses': 28, 'wins': 8, 'name': 'Dave'}
+INFO:root:Connected at 09.Dec 2020 14:59:13
+INFO:root:{'ranking': 25, 'losses': 16, 'wins': 9, 'name': 'Ashley'}
+INFO:root:Winner is: 
+INFO:root:Dave
+INFO:root:results
+INFO:root:{'ranking': 39, 'losses': 25, 'wins': 14, 'name': 'Trump'}
+INFO:root:{'ranking': 37, 'losses': 28, 'wins': 9, 'name': 'Dave'}
+INFO:root:{'ranking': 25, 'losses': 16, 'wins': 9, 'name': 'Ashley'}
+INFO:root:2020-12-0919:59:14
+INFO:root:Simulation ended
+INFO:root:Starting Game
+INFO:root:2020-12-0919:59:14
+INFO:root:Connected at 09.Dec 2020 14:59:14
+INFO:root:{'ranking': 38, 'losses': 24, 'wins': 14, 'name': 'Trump'}
+INFO:root:Connected at 09.Dec 2020 14:59:14
+INFO:root:{'ranking': 25, 'losses': 16, 'wins': 9, 'name': 'Ashley'}
+INFO:root:Connected at 09.Dec 2020 14:59:14
+INFO:root:{'ranking': 32, 'losses': 26, 'wins': 6, 'name': 'Ivan'}
+INFO:root:Connected at 09.Dec 2020 14:59:14
+INFO:root:{'ranking': 35, 'losses': 27, 'wins': 8, 'name': 'Isaac'}
+INFO:root:Connected at 09.Dec 2020 14:59:14
+INFO:root:{'ranking': 25, 'losses': 16, 'wins': 9, 'name': 'Ashley'}
+INFO:root:Winner is: 
+INFO:root:Ashley
+INFO:root:Winner is: 
+INFO:root:Ashley
+INFO:root:results
+INFO:root:{'ranking': 32, 'losses': 26, 'wins': 6, 'name': 'Ivan'}
+INFO:root:{'ranking': 36, 'losses': 28, 'wins': 8, 'name': 'Isaac'}
+INFO:root:{'ranking': 27, 'losses': 16, 'wins': 11, 'name': 'Ashley'}
+INFO:root:2020-12-0919:59:15
+INFO:root:Simulation ended
+INFO:root:Starting Game
+INFO:root:2020-12-0919:59:15
+INFO:root:Connected at 09.Dec 2020 14:59:15
+INFO:root:{'ranking': 38, 'losses': 24, 'wins': 14, 'name': 'Trump'}
+INFO:root:Connected at 09.Dec 2020 14:59:15
+INFO:root:{'ranking': 32, 'losses': 26, 'wins': 6, 'name': 'Ivan'}
+INFO:root:Connected at 09.Dec 2020 14:59:15
+INFO:root:{'ranking': 35, 'losses': 27, 'wins': 8, 'name': 'Isaac'}
+INFO:root:Connected at 09.Dec 2020 14:59:15
+INFO:root:{'ranking': 116, 'losses': 24, 'wins': 8, 'name': 'Tanya'}
+INFO:root:Connected at 09.Dec 2020 14:59:15
+INFO:root:{'ranking': 29, 'losses': 24, 'wins': 5, 'name': 'Tom'}
+INFO:root:Connected at 09.Dec 2020 14:59:15
+INFO:root:{'ranking': 35, 'losses': 27, 'wins': 8, 'name': 'Russell'}
+INFO:root:Winner is: 
+INFO:root:Isaac
+INFO:root:results
+INFO:root:{'ranking': 116, 'losses': 24, 'wins': 8, 'name': 'Tanya'}
+INFO:root:{'ranking': 30, 'losses': 25, 'wins': 5, 'name': 'Tom'}
+INFO:root:{'ranking': 36, 'losses': 28, 'wins': 8, 'name': 'Russell'}
+INFO:root:2020-12-0919:59:17
+INFO:root:Simulation ended
+INFO:root:Starting Game
+INFO:root:2020-12-0921:20:06
+INFO:root:Connected at 09.Dec 2020 16:20:06
+INFO:root:{'ranking': 116, 'losses': 24, 'wins': 8, 'name': 'Tanya'}
+INFO:root:Connected at 09.Dec 2020 16:20:06
+INFO:root:{'ranking': 30, 'losses': 25, 'wins': 5, 'name': 'Tom'}
+INFO:root:Connected at 09.Dec 2020 16:20:06
+INFO:root:{'ranking': 36, 'losses': 28, 'wins': 8, 'name': 'Russell'}
+INFO:root:Winner is: 
+INFO:root:Russell
+INFO:root:results
+INFO:root:{'ranking': 117, 'losses': 25, 'wins': 8, 'name': 'Tanya'}
+INFO:root:{'ranking': 31, 'losses': 26, 'wins': 5, 'name': 'Tom'}
+INFO:root:{'ranking': 37, 'losses': 28, 'wins': 9, 'name': 'Russell'}
+INFO:root:2020-12-0921:20:07
+INFO:root:Simulation ended
+INFO:root:Starting Game
+INFO:root:2020-12-1019:34:08
+INFO:root:Starting Game
+INFO:root:2020-12-1019:35:54
+INFO:root:Starting Game
+INFO:root:2020-12-1019:36:42
+INFO:root:Starting Game
+INFO:root:2020-12-1019:48:10
+INFO:root:Starting Game
+INFO:root:2020-12-1019:48:44
+INFO:root:2020-12-1019:48:44
+INFO:root:Unable to find match.
+
+
+INFO:root:Starting Game
+INFO:root:2020-12-1020:29:31
+INFO:root:2020-12-1020:29:32
+INFO:root:Unable to find match.
+INFO:root:Unable to find match. End of search.
+INFO:root:Starting Game
+INFO:root:2020-12-1020:30:24
+INFO:root:Dave Connected at 10.Dec 2020 15:30:24
+INFO:root:Starting Game
+INFO:root:2020-12-1020:31:13
+INFO:root:Trump Connected at 10.Dec 2020 15:31:13
+INFO:root:Starting Game
+INFO:root:2020-12-1020:49:27
+INFO:root:Joss Connected at 10.Dec 2020 15:49:27
+INFO:root:Their ranking is: 27
+INFO:root:{'ranking': 27, 'losses': 26, 'wins': 1, 'name': 'Joss'}
+INFO:root:Dave Connected at 10.Dec 2020 15:49:27
+INFO:root:Their ranking is: 38
+INFO:root:{'ranking': 38, 'losses': 29, 'wins': 9, 'name': 'Dave'}
+INFO:root:Russell Connected at 10.Dec 2020 15:49:27
+INFO:root:Their ranking is: 39
+INFO:root:{'ranking': 39, 'losses': 28, 'wins': 11, 'name': 'Russell'}
+INFO:root:Winner is: 
+INFO:root:Russell
+INFO:root:results
+INFO:root:{'ranking': 28, 'losses': 27, 'wins': 1, 'name': 'Joss'}
+INFO:root:{'ranking': 39, 'losses': 30, 'wins': 9, 'name': 'Dave'}
+INFO:root:{'ranking': 40, 'losses': 28, 'wins': 12, 'name': 'Russell'}
+INFO:root:2020-12-1020:49:29
+INFO:root:Simulation ended
+INFO:root:Starting Game
+INFO:root:2020-12-1021:00:44
+INFO:root:Dave Connected at 10.Dec 2020 16:00:44
+INFO:root:Their ranking is: 39
+INFO:root:{'ranking': 39, 'losses': 30, 'wins': 9, 'name': 'Dave'}
+INFO:root:Tom Connected at 10.Dec 2020 16:00:44
+INFO:root:Their ranking is: 31
+INFO:root:{'ranking': 31, 'losses': 26, 'wins': 5, 'name': 'Tom'}
+INFO:root:Russell Connected at 10.Dec 2020 16:00:44
+INFO:root:Their ranking is: 40
+INFO:root:{'ranking': 40, 'losses': 28, 'wins': 12, 'name': 'Russell'}
+INFO:root:Winner is: 
+INFO:root:Russell
+INFO:root:results
+INFO:root:{'ranking': 40, 'losses': 31, 'wins': 9, 'name': 'Dave'}
+INFO:root:{'ranking': 32, 'losses': 27, 'wins': 5, 'name': 'Tom'}
+INFO:root:{'ranking': 41, 'losses': 28, 'wins': 13, 'name': 'Russell'}
+INFO:root:2020-12-1021:00:46
+INFO:root:Simulation ended
+INFO:root:Starting Game
+INFO:root:2020-12-1023:43:34
+INFO:root:Tom Connected at 10.Dec 2020 18:43:34
+INFO:root:Their ranking is: 32
+INFO:root:{'ranking': 32, 'losses': 27, 'wins': 5, 'name': 'Tom'}
+INFO:root:Isaac Connected at 10.Dec 2020 18:43:34
+INFO:root:Their ranking is: 40
+INFO:root:{'ranking': 40, 'losses': 30, 'wins': 10, 'name': 'Isaac'}
+INFO:root:Russell Connected at 10.Dec 2020 18:43:34
+INFO:root:Their ranking is: 41
+INFO:root:{'ranking': 41, 'losses': 28, 'wins': 13, 'name': 'Russell'}
+INFO:root:Winner is: 
+INFO:root:Isaac
+INFO:root:results
+INFO:root:{'ranking': 31, 'losses': 28, 'wins': 5, 'name': 'Tom'}
+INFO:root:{'ranking': 41, 'losses': 30, 'wins': 11, 'name': 'Isaac'}
+INFO:root:{'ranking': 40, 'losses': 29, 'wins': 13, 'name': 'Russell'}
+INFO:root:2020-12-1023:43:36
+INFO:root:Simulation ended
+INFO:root:Starting Game
+INFO:root:2020-12-1023:44:29
+INFO:root:Tanya Connected at 10.Dec 2020 18:44:29
+INFO:root:Their ranking is: 119
+INFO:root:{'ranking': 119, 'losses': 26, 'wins': 9, 'name': 'Tanya'}
+INFO:root:Dave Connected at 10.Dec 2020 18:44:29
+INFO:root:Their ranking is: 40
+INFO:root:{'ranking': 40, 'losses': 31, 'wins': 9, 'name': 'Dave'}
+INFO:root:Ashley Connected at 10.Dec 2020 18:44:29
+INFO:root:Their ranking is: 29
+INFO:root:{'ranking': 29, 'losses': 18, 'wins': 11, 'name': 'Ashley'}
+INFO:root:Winner is: 
+INFO:root:Tanya
+INFO:root:results
+INFO:root:{'ranking': 120, 'losses': 26, 'wins': 10, 'name': 'Tanya'}
+INFO:root:{'ranking': 39, 'losses': 32, 'wins': 9, 'name': 'Dave'}
+INFO:root:{'ranking': 28, 'losses': 19, 'wins': 11, 'name': 'Ashley'}
+INFO:root:2020-12-1023:44:30
+INFO:root:Simulation ended
+
+INFO:root:Starting Game
+INFO:root:2020-12-1023:45:17
+INFO:root:2020-12-1023:45:17
+INFO:root:Unable to find match.
+INFO:root:Unable to find match. End of search.
+INFO:root:Starting Game
+INFO:root:2020-12-1023:45:26
+INFO:root:Tanya Connected at 10.Dec 2020 18:45:26
+INFO:root:Their ranking is: 119
+INFO:root:{'ranking': 119, 'losses': 27, 'wins': 10, 'name': 'Tanya'}
+INFO:root:Joss Connected at 10.Dec 2020 18:45:26
+INFO:root:Their ranking is: 27
+INFO:root:{'ranking': 27, 'losses': 28, 'wins': 1, 'name': 'Joss'}
+INFO:root:Dave Connected at 10.Dec 2020 18:45:26
+INFO:root:Their ranking is: 38
+INFO:root:{'ranking': 38, 'losses': 33, 'wins': 9, 'name': 'Dave'}
+INFO:root:Winner is: 
+INFO:root:Joss
+INFO:root:results
+INFO:root:{'ranking': 118, 'losses': 28, 'wins': 10, 'name': 'Tanya'}
+INFO:root:{'ranking': 28, 'losses': 28, 'wins': 2, 'name': 'Joss'}
+INFO:root:{'ranking': 37, 'losses': 34, 'wins': 9, 'name': 'Dave'}
+INFO:root:2020-12-1023:45:27
+INFO:root:Simulation ended
+INFO:root:Starting Game
+INFO:root:2020-12-1023:45:56
+INFO:root:Ivan Connected at 10.Dec 2020 18:45:56
+INFO:root:Their ranking is: 33
+INFO:root:{'ranking': 33, 'losses': 29, 'wins': 6, 'name': 'Ivan'}
+INFO:root:Tanya Connected at 10.Dec 2020 18:45:56
+INFO:root:Their ranking is: 118
+INFO:root:{'ranking': 118, 'losses': 28, 'wins': 10, 'name': 'Tanya'}
+INFO:root:Tom Connected at 10.Dec 2020 18:45:56
+INFO:root:Their ranking is: 31
+INFO:root:{'ranking': 31, 'losses': 28, 'wins': 5, 'name': 'Tom'}
+INFO:root:Winner is: 
+INFO:root:Tanya
+INFO:root:results
+INFO:root:{'ranking': 32, 'losses': 30, 'wins': 6, 'name': 'Ivan'}
+INFO:root:{'ranking': 119, 'losses': 28, 'wins': 11, 'name': 'Tanya'}
+INFO:root:{'ranking': 30, 'losses': 29, 'wins': 5, 'name': 'Tom'}
+INFO:root:2020-12-1023:45:57
+INFO:root:Simulation ended
