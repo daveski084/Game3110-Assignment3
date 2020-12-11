@@ -7,7 +7,7 @@ import requests
 import time
 import logging
 
-SERVERADDRESS = '3.139.99.41'
+SERVERADDRESS = '18.223.30.109'
 SERVERPORT = 12345
 
 #API to get and update dynamoDB
